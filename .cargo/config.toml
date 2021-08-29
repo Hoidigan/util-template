@@ -1,0 +1,2 @@
+[alias]
+util = ["run", "-p", "util"]
